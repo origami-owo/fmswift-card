@@ -117,7 +117,7 @@ watch([() => window.innerWidth, () => window.innerHeight], () => {
 // 远程加载 JSON
 onMounted(async () => {
   try {
-    const res = await fetch('/pass.json')
+    const res = await fetch('./pass.json')
     if (!res.ok) throw new Error('加载失败')
     cards.value = await res.json()
   } catch (err) {
