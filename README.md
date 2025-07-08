@@ -2,11 +2,17 @@
 
 使用 Vue 3 + Vite + TailwindCSS + DaisyUI 打造的响应式卡图库。
 
-## 安装依赖 
-yarn
+图片大小总计 1.21 GB
 
-## 启动项目 
-yarn dev
+## 安装依赖
 
-## 打包项目 
-yarn build
+```yarn```
+
+## 启动项目
+
+```yarn dev```
+
+## 打包项目
+
+```yarn build```
+
