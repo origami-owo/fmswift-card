@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "exif-js": "^2.3.0",
+    "lightgallery": "^2.9.0",
     "lightgallery.js": "^1.4.0",
     "vue": "^3.4.0",
     "vue-router": "^4.5.1"
